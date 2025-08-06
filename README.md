@@ -5,7 +5,7 @@ Este é um aplicativo simples para te ajudar a aprender novas palavras em qualqu
 ## 💡 Como Funciona
 
 
-![Flashy](images/flashy.gif)
+![Flashy](images/flashy_tester.gif)
 
 - O programa mostra uma palavra no idioma que você está aprendendo.
 - Após **3 segundos**, o card vira e mostra a **tradução**.
